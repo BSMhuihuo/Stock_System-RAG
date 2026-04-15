@@ -1,0 +1,15 @@
+.env
+runtime/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+.conda/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.idea/
+.vscode/
+dist/
+build/

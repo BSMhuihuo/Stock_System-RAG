@@ -9,7 +9,6 @@
 - 飞书通知（Webhook / App）
 
 项目目标是构建一条完整的“数据 -> 分析 -> 决策 -> 执行 -> 通知”链路，而不是直接用于实盘盈利。
-在线查看：[`demo/effect.mp4`](./demo/effect.mp4)
 
 ## 1. 功能清单
 
@@ -239,6 +238,10 @@ python scripts/test_feishu.py --app-send --receive-id <chat_id> --receive-id-typ
 当前版本以 `paper` 为主，`live` 默认禁用，仅保留扩展接口。
 
 ## 效果视频
+
+- GIF 预览（可直接在 README 播放）：
+
+![Demo Preview](./demo/effect.gif)
 
 - 在线查看：[`demo/effect.mp4`](./demo/effect.mp4)
 - 如果网页内无法直接播放，点击链接后可在新页面播放或下载。
